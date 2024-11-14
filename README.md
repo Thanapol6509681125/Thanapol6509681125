@@ -18,9 +18,11 @@ Check out my repositories for my interesting projects!
 
 ### 📈 GitHub Stats
 
-![Thanapol Moolchalee GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanapol6509681125&show_icons=true&theme=default)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thanapol6509681125&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapol6509681125&layout=compact&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapol6509681125&layout=compact&theme=radical)
+
 
 ---
 
@@ -29,3 +31,9 @@ Check out my repositories for my interesting projects!
 - **GitHub:** [github.com/Thanapol6509681125](https://github.com/Thanapol6509681125)
 
 I'm always open to collaboration and eager to learn from others in the field!
+
+---
+
+> "Coding is like a puzzle — the more you work on it, the more rewarding it becomes."
+
+Happy coding! ✨
