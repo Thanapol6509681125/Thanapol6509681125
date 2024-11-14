@@ -18,9 +18,9 @@ Check out my repositories for my interesting projects!
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Thanapol Moolchalee GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanapol6509681125&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanapol6509681125&layout=compact&theme=default)
 
 ---
 
